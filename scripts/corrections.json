@@ -1,0 +1,883 @@
+{
+  "_meta": {
+    "generated": "2026-04-04T10:48:46.302Z",
+    "sources": [
+      "京華城案_人名地名校正總表_v3_6.md",
+      "京華城案_第14場_人名校正筆記.md",
+      "京華城案_通盤分析.md（黃金名單）"
+    ],
+    "goldenNameCount": 27,
+    "totalCorrections": 97
+  },
+  "context_dependent": [
+    {
+      "correct_judge": "本院",
+      "correct_other": "鈞院",
+      "wrong_variants": [
+        "軍院"
+      ]
+    },
+    {
+      "correct": "檢察官",
+      "wrong_variants": [
+        "蔣萬安"
+      ],
+      "context_rule": "transcript_only_with_context_check：僅在逐字稿區替換，且需確認上下文不是真的在講蔣萬安市長。分析區不動。"
+    }
+  ],
+  "corrections": [
+    {
+      "correct": "沈春池文教基金會",
+      "wrong_variants": [
+        "沈春慈文教基金會"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "木可好店",
+      "wrong_variants": [
+        "Mucca好店",
+        "募可好店"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "富生公園",
+      "wrong_variants": [
+        "任雅富生公園",
+        "富盛公園"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "眾望基金會",
+      "wrong_variants": [
+        "中央基金會",
+        "重望基金會",
+        "中旺基金會",
+        "重光基金會",
+        "縱望基金會",
+        "見旺基金會"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "文化東方案",
+      "wrong_variants": [
+        "文化中方案",
+        "東方文華"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "許英傑",
+      "wrong_variants": [
+        "徐大律師",
+        "徐英賢",
+        "徐英傑"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "木可公司",
+      "wrong_variants": [
+        "募款公司",
+        "穆可",
+        "慕可",
+        "穆國",
+        "募可",
+        "木柯"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "京華廣場",
+      "wrong_variants": [
+        "金華廣場"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "大灣北段",
+      "wrong_variants": [
+        "單安北段"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "采風情資分析公司",
+      "wrong_variants": [
+        "海豐公司",
+        "採風公司",
+        "新冠採風",
+        "彩風情資",
+        "財豐公司",
+        "秋風"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "練鴻慶",
+      "wrong_variants": [
+        "余烈洪慶",
+        "煉紅錢",
+        "煉洪慶",
+        "練紅青",
+        "練洪慶"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "中石化",
+      "wrong_variants": [
+        "造星化工"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "沈慶京",
+      "wrong_variants": [
+        "審清金",
+        "沈清今",
+        "審信金",
+        "省信心",
+        "沈進今",
+        "沈金晶",
+        "陳菁菁",
+        "沈沁英"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "彭振聲",
+      "wrong_variants": [
+        "彭正生",
+        "彭政森",
+        "彭正森",
+        "彭振生"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "黃景茂",
+      "wrong_variants": [
+        "黃捷茂",
+        "黃錦茂",
+        "黃檢帽",
+        "黃簡報"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "邵琇珮",
+      "wrong_variants": [
+        "邵秀慧",
+        "邵秀惠",
+        "邵秀沛",
+        "邵修配",
+        "少修配"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "應曉薇",
+      "wrong_variants": [
+        "印小微",
+        "應小微",
+        "易小微",
+        "一小微",
+        "印假歪",
+        "益甲威",
+        "畢小薇",
+        "議長會",
+        "韻小威",
+        "韻翔會",
+        "議甲威",
+        "易曉威",
+        "易曉微",
+        "印曉薇",
+        "印曉輝"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "吳順民",
+      "wrong_variants": [
+        "吳速閔",
+        "吳正明",
+        "吳正民"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "李文宗",
+      "wrong_variants": [
+        "李文中",
+        "李文忠",
+        "李文璋",
+        "林文忠",
+        "林文中"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "李文娟",
+      "wrong_variants": [
+        "李文君"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "張志澄",
+      "wrong_variants": [
+        "張志成",
+        "張志誠",
+        "張之成",
+        "張之誠",
+        "張智仁"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "林俊言",
+      "wrong_variants": [
+        "林俊遠",
+        "林俊元",
+        "林俊炎",
+        "林俊廷",
+        "林靜遠",
+        "林俊賢",
+        "林俊仁"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "廖彥鈞",
+      "wrong_variants": [
+        "廖義軍",
+        "廖育軍"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "陳士立",
+      "wrong_variants": [
+        "程士力",
+        "陳士力"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "姜長志",
+      "wrong_variants": [
+        "江長智"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "岳芳如",
+      "wrong_variants": [
+        "葉芳如"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "唐于智",
+      "wrong_variants": [
+        "唐律師"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "楊智勝",
+      "wrong_variants": [
+        "楊志盛",
+        "楊志森"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "張立立",
+      "wrong_variants": [
+        "張麗麗",
+        "張莉莉"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "劉秀琳",
+      "wrong_variants": [
+        "劉秀玲",
+        "劉蟹龍",
+        "劉秀林",
+        "有校林"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "林芝羽",
+      "wrong_variants": [
+        "林之宇",
+        "林之語",
+        "林珍羽",
+        "連至於"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "張家偉",
+      "wrong_variants": [
+        "張家旗",
+        "張家綺",
+        "張家錫",
+        "張家文"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "李德全",
+      "wrong_variants": [
+        "李德璇",
+        "李德轩",
+        "李德賢",
+        "李德權"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "林洲民",
+      "wrong_variants": [
+        "林卓明",
+        "林周明"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "白仁德",
+      "wrong_variants": [
+        "柏林德",
+        "白蘭德"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "蔡立睿",
+      "wrong_variants": [
+        "蔡定瑞",
+        "蔡立瑞"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "潘一如",
+      "wrong_variants": [
+        "潘律助"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "陳春銅",
+      "wrong_variants": [
+        "陳春同"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "薛兆信",
+      "wrong_variants": [
+        "薛昭信"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "陳家駿",
+      "wrong_variants": [
+        "陳家峻"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "黃采生",
+      "wrong_variants": [
+        "黃蔡生"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "胡芳瓊",
+      "wrong_variants": [
+        "胡芳窮",
+        "胡方琼"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "郭泰琪",
+      "wrong_variants": [
+        "郭台銘"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "黃書學",
+      "wrong_variants": [
+        "黃蘇軒"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "徐國城",
+      "wrong_variants": [
+        "徐國森"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "陳志銘",
+      "wrong_variants": [
+        "陳智敏",
+        "張志明",
+        "陳志明"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "沈慶光",
+      "wrong_variants": [
+        "沈慶官"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "張高祥",
+      "wrong_variants": [
+        "張高翔"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "陳俊源",
+      "wrong_variants": [
+        "陳俊遠",
+        "陳俊仁",
+        "陳俊元",
+        "陳信憲",
+        "陳俊原"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "曾安慈",
+      "wrong_variants": [
+        "陳恩慈",
+        "陳安慈"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "許芷瑜",
+      "wrong_variants": [
+        "許子余",
+        "徐子余"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "范有偉",
+      "wrong_variants": [
+        "范友偉",
+        "范游偉",
+        "范又偉"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "王尊侃",
+      "wrong_variants": [
+        "王尊凱"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "邱佩琳",
+      "wrong_variants": [
+        "邱培林",
+        "邱沛林",
+        "邱淮林",
+        "邱珮琳"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "謝國樑",
+      "wrong_variants": [
+        "謝國梁"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "王炳忠",
+      "wrong_variants": [
+        "王秉中"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "陳歐珀",
+      "wrong_variants": [
+        "陳歐博"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "蔡明興",
+      "wrong_variants": [
+        "蔡明星",
+        "蔡明欣",
+        "蔡明新"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "廉政署",
+      "wrong_variants": [
+        "連政署"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "亞灣案（高雄亞洲新灣區）",
+      "wrong_variants": [
+        "亞萬案"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "檢察官",
+      "wrong_variants": [
+        "簡安官",
+        "假官",
+        "甲官",
+        "蔣官",
+        "講官",
+        "簡官",
+        "蔣萬"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "行事曆",
+      "wrong_variants": [
+        "刑事令",
+        "刑事例",
+        "刑事醫",
+        "刑事力"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "洪秀鳳",
+      "wrong_variants": [
+        "洪秀柱",
+        "侯秀峰"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "劉子安",
+      "wrong_variants": [
+        "劉紫安"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "黃書文",
+      "wrong_variants": [
+        "黃淑文",
+        "黃說文"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "嚴邦瑞",
+      "wrong_variants": [
+        "廖邦瑞",
+        "聯邦瑞",
+        "延邦瑞"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "黃育平",
+      "wrong_variants": [
+        "黃一鳴",
+        "黃一平"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "陳嘉駿",
+      "wrong_variants": [
+        "陳嘉禎"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "薛朝信",
+      "wrong_variants": [
+        "蘇朝信"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "周榆修",
+      "wrong_variants": [
+        "周宇修",
+        "周宇秀",
+        "周于修",
+        "周玉秀"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "李婉萱",
+      "wrong_variants": [
+        "林婉萱",
+        "林海軒",
+        "李婉軒",
+        "林宛君"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "何艾婷",
+      "wrong_variants": [
+        "何愛婷",
+        "何漢廷",
+        "何璦廷"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "周王美文",
+      "wrong_variants": [
+        "周阿美"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "林命群",
+      "wrong_variants": [
+        "林睿琴"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "邱復生",
+      "wrong_variants": [
+        "邱富盛",
+        "抽付生",
+        "抽付贈",
+        "丘副正",
+        "丘副參"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "孫丁君",
+      "wrong_variants": [
+        "孫天軍",
+        "孫天群",
+        "森丁君",
+        "孫定軍",
+        "孫丁玉",
+        "孫經君",
+        "孫英俊",
+        "孫令君",
+        "曾丁軍",
+        "孫中山",
+        "孫宁君",
+        "孫宁娟"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "余孟林",
+      "wrong_variants": [
+        "余孟玲",
+        "余孟琳",
+        "余孟靈"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "謝博宏",
+      "wrong_variants": [
+        "謝伯宏",
+        "謝國宏",
+        "謝柏宏",
+        "謝柏鴻"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "顧林飛",
+      "wrong_variants": [
+        "顧名飛"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "黃瀞瑩",
+      "wrong_variants": [
+        "黃敬穎",
+        "黃靖茵"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "朱亞虎",
+      "wrong_variants": [
+        "朱牙虎",
+        "朱瑤虎",
+        "朱耀武",
+        "朱耀虎",
+        "朱雅虎",
+        "朱雅武",
+        "除牙虎",
+        "豬牙虎"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "吳欣盈",
+      "wrong_variants": [
+        "吳興營",
+        "吳欣營",
+        "吳欣梅",
+        "吳欣益",
+        "無薪營",
+        "吳興盈"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "陸正義",
+      "wrong_variants": [
+        "陸正英"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "王俊力",
+      "wrong_variants": [
+        "王俊義"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "林欽榮",
+      "wrong_variants": [
+        "林青榮"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "王令麟",
+      "wrong_variants": [
+        "王令林",
+        "王令玲"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "黃澎孝",
+      "wrong_variants": [
+        "黃鵬孝"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "余雪鴻",
+      "wrong_variants": [
+        "余雪紅",
+        "呂雪紅",
+        "于雪紅",
+        "余學鴻",
+        "林雪紅"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "徐巧芯",
+      "wrong_variants": [
+        "許巧新"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "林青",
+      "wrong_variants": [
+        "林清",
+        "林靖"
+      ],
+      "confirmed_by_overview": true
+    },
+    {
+      "correct": "長峰公司",
+      "wrong_variants": [
+        "長鋒"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "競辦",
+      "wrong_variants": [
+        "金班",
+        "禁辦",
+        "淨辦",
+        "禁班",
+        "近半"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "瑞果公司",
+      "wrong_variants": [
+        "瑞國"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "傭人",
+      "wrong_variants": [
+        "用人"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "餐敘",
+      "wrong_variants": [
+        "參敘"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "索資",
+      "wrong_variants": [
+        "索知",
+        "佐之",
+        "所知",
+        "所指"
+      ],
+      "confirmed_by_overview": false
+    },
+    {
+      "correct": "甲章",
+      "wrong_variants": [
+        "假章"
+      ],
+      "confirmed_by_overview": false
+    }
+  ]
+}
