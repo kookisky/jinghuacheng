@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { allSessionMetas } from '../lib/sessions';
 import { SESSION_STAGES } from '../lib/types';
@@ -10,6 +11,9 @@ const sideFocusStyle: Record<string, string> = {
 };
 
 export default function SessionList() {
+  useEffect(() => {
+    document.title = '京華城案言詞辯論｜15場總覽';
+  }, []);
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
       <h1 className="text-2xl font-bold mb-6">15 場言詞辯論</h1>

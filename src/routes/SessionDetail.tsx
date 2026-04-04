@@ -19,11 +19,14 @@ export default function SessionDetail() {
 
   useEffect(() => {
     if (!id) return;
+    if (meta) {
+      document.title = `京華城案 第${meta.id}場｜${meta.title}｜分析與逐字稿`;
+    }
     setAnalysis(null);
     setTranscript(null);
     loadAnalysis(id).then(setAnalysis);
     loadTranscript(id).then(setTranscript);
-  }, [id]);
+  }, [id, meta]);
 
   if (!meta) {
     return <div className="p-8 text-center text-gray-500">找不到第 {id} 場資料</div>;

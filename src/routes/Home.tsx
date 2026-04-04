@@ -1,6 +1,10 @@
+import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 export default function Home() {
+  useEffect(() => {
+    document.title = '京華城案言詞辯論15場｜逐字稿與分析';
+  }, []);
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
       <h1 className="text-3xl font-bold mb-4">京華城案言詞辯論 15 場</h1>

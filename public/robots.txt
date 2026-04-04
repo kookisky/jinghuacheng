@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kookisky.github.io/jinghuacheng/sitemap.xml

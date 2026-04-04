@@ -1,4 +1,9 @@
+import { useEffect } from 'react';
+
 export default function About() {
+  useEffect(() => {
+    document.title = '京華城案言詞辯論｜關於本站';
+  }, []);
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
       <h1 className="text-2xl font-bold mb-4">關於本站</h1>

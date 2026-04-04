@@ -6,6 +6,7 @@ export default function Overview() {
   const [markdown, setMarkdown] = useState<string | null>(null);
 
   useEffect(() => {
+    document.title = '京華城案言詞辯論｜通盤分析';
     import('../content/overview.md?raw').then(mod => setMarkdown(mod.default));
   }, []);
 
