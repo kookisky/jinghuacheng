@@ -21,7 +21,7 @@
     .empty{padding:42px 30px;color:#5c5c5c;line-height:1.7}.record{padding:24px 25px 70px;overflow-wrap:anywhere}.kicker{color:var(--red);font-weight:800;font-size:13px;letter-spacing:.08em}.record h2{font-size:27px;line-height:1.25;margin:8px 0 12px;word-break:break-word}.meta{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0}.pill{display:inline-block;padding:4px 8px;border-radius:3px;background:#eee9df;font-size:13px}.pill.yes{background:#dcefe4;color:#0c653b}.pill.part{background:#fff0cc;color:#845000}.pill.no{background:#e8e8e8;color:#555}
     .detail{margin:18px 0;padding:14px;background:#f7f4ed;border-left:4px solid #888;line-height:1.65}.detail b{display:block;margin-bottom:4px}.source{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0}.source a,.source button{display:inline-block;padding:9px 12px;border:1px solid #145ca4;background:#fff;color:#145ca4;border-radius:4px;text-decoration:none}.source .primary{background:#145ca4;color:#fff}
     .original-label{margin:28px 0 10px;padding-top:20px;border-top:1px solid var(--line);font-size:19px}.original{white-space:pre-wrap;word-break:break-word;line-height:1.85;font-family:inherit;background:#faf9f6;border:1px solid #ddd7cc;padding:18px;font-size:16px}.citation{margin-top:16px;color:#666;font-size:13px;line-height:1.55;word-break:break-all}
-    .leaflet-tooltip{font-weight:700}.leaflet-control-attribution{font-size:10px}.leaflet-popup-content{font-family:inherit;line-height:1.5}.popup-title{font-weight:800;margin-bottom:4px}.popup-open{display:inline-block;margin-top:6px;color:#145ca4;font-weight:700}
+    .leaflet-tooltip{font-weight:700}.leaflet-control-attribution{font-size:10px}.leaflet-popup-content{font-family:inherit;line-height:1.5}.popup-title{font-weight:800;margin-bottom:4px}.popup-open{display:inline-block;margin-top:6px;color:#145ca4;font-weight:700}.popup-list{margin:7px 0 0;padding-left:22px;max-height:230px;overflow:auto}.popup-list li{margin:0 0 7px}.popup-list .popup-open{margin:0;font-weight:600}
     details.method{padding:18px clamp(18px,4vw,56px);background:#fff;border-top:1px solid var(--line);line-height:1.7}details.method summary{cursor:pointer;font-weight:800}.method-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:14px}.method-grid div{padding:14px;background:#f6f3ec}.method-grid b{display:block;margin-bottom:5px}
     .result-count{align-self:center;color:#565656;font-size:14px;white-space:nowrap}
     @media(max-width:880px){.toolbar{grid-template-columns:1fr 1fr}.toolbar input{grid-column:1/-1}main{grid-template-columns:1fr;height:auto}.panel{border-left:0;border-top:1px solid var(--line);max-height:none}#map{height:58vh;min-height:410px}.method-grid{grid-template-columns:1fr}.result-count{white-space:normal}}
@@ -84,7 +84,7 @@
   const minDistance=r=>Math.min(r.distance_to_zhongping_section_m,r.distance_to_zhongping_market_m);
   const benefitClass=r=>r.benefit_level===2?'yes':r.benefit_level===1?'part':r.benefit_level===0?'no':'unrated';
   const benefitLabel=r=>r.benefit_judgment||'3公里外未做受益評分';
-  function pointStyle(r){const c=r.within_3km?(r.benefit_level===2?'#b42318':r.benefit_level===1?'#d27a00':'#687078'):'#687078';return {radius:r.within_3km?6:4,color:'#fff',weight:1,fillColor:c,fillOpacity:.88};}
+  function pointStyle(r,count=1){const c=r.within_3km?(r.benefit_level===2?'#b42318':r.benefit_level===1?'#d27a00':'#687078'):'#687078';const base=r.within_3km?6:4;return {radius:base+Math.min(7,Math.log2(count)*2.2),color:'#fff',weight:1.5,fillColor:c,fillOpacity:.9};}
   function shareUrl(id){const u=new URL(location.href);u.searchParams.set('q',id);return u.toString();}
   async function copyShare(id,button){try{await navigator.clipboard.writeText(shareUrl(id));button.textContent='已複製查證連結';setTimeout(()=>button.textContent='複製本則固定連結',1500)}catch(e){prompt('複製這個連結',shareUrl(id));}}
   function showRecord(r,pan=true){
@@ -116,7 +116,21 @@
       if(term){const hay=[r.id,r.headline,r.place.label,r.question_text,r.session].join('\n').toLowerCase();if(!hay.includes(term))return false;}
       return true;
     });
-    filtered.forEach(r=>{const marker=L.circleMarker([r.place.lat,r.place.lng],pointStyle(r)).addTo(markerLayer);marker.bindTooltip(`${esc(r.place.label)} · ${esc(r.id)}`);marker.bindPopup(`<div class="popup-title">${esc(r.headline||r.place.label)}</div>${esc(r.place.label)}<br><a href="${esc(shareUrl(r.id))}" class="popup-open">查看完整原文</a>`);marker.on('click',()=>showRecord(r,false));marker.on('popupopen',e=>{const a=e.popup.getElement().querySelector('.popup-open');if(a)a.onclick=ev=>{ev.preventDefault();showRecord(r,false)}});markers.set(r.id,marker)});
+    const grouped=new Map();
+    filtered.forEach(r=>{const key=`${Number(r.place.lat).toFixed(5)},${Number(r.place.lng).toFixed(5)}`;if(!grouped.has(key))grouped.set(key,[]);grouped.get(key).push(r)});
+    grouped.forEach(group=>{
+      const representative=group.find(r=>r.benefit_level===2)||group.find(r=>r.benefit_level===1)||group[0];
+      const marker=L.circleMarker([representative.place.lat,representative.place.lng],pointStyle(representative,group.length)).addTo(markerLayer);
+      const tooltip=group.length===1?`${group[0].place.label} · ${group[0].id}`:`${representative.place.label} · ${group.length}則重疊問政（點擊展開）`;
+      marker.bindTooltip(esc(tooltip));
+      const popup=group.length===1
+        ?`<div class="popup-title">${esc(group[0].headline||group[0].place.label)}</div>${esc(group[0].place.label)}<br><a href="${esc(shareUrl(group[0].id))}" class="popup-open" data-q="${esc(group[0].id)}">查看完整原文</a>`
+        :`<div class="popup-title">同一地點共${group.length}則問政</div><div>${esc(representative.place.label)}</div><ol class="popup-list">${group.map(r=>`<li><a href="${esc(shareUrl(r.id))}" class="popup-open" data-q="${esc(r.id)}">${esc(r.id)}｜${esc(r.headline||r.place.label)}</a></li>`).join('')}</ol>`;
+      marker.bindPopup(popup,{maxWidth:390});
+      if(group.length===1)marker.on('click',()=>showRecord(group[0],false));
+      marker.on('popupopen',e=>{e.popup.getElement().querySelectorAll('.popup-open').forEach(a=>{a.onclick=ev=>{ev.preventDefault();const r=QUESTIONS.find(x=>x.id===a.dataset.q);if(r)showRecord(r,false)}})});
+      group.forEach(r=>markers.set(r.id,marker));
+    });
     document.getElementById('resultCount').textContent=`顯示 ${filtered.length} 則`;
     return filtered;
   }
