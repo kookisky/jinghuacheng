@@ -41,7 +41,9 @@
         "lng": 121.2947701,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 299,
+        "distance_to_zhongping_market_m": 189
       }
     ]
   },
@@ -87,7 +89,9 @@
         "lng": 121.3129679,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1926,
+        "distance_to_zhongping_market_m": 2019
       }
     ]
   },
@@ -132,7 +136,9 @@
         "lng": 121.3001556,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3120,
+        "distance_to_zhongping_market_m": 3360
       }
     ]
   },
@@ -178,7 +184,9 @@
         "lng": 121.338,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 5540,
+        "distance_to_zhongping_market_m": 5748
       }
     ]
   },
@@ -224,7 +232,9 @@
         "lng": 121.3049171,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1128,
+        "distance_to_zhongping_market_m": 1203
       }
     ]
   },
@@ -270,7 +280,9 @@
         "lng": 121.3049171,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1128,
+        "distance_to_zhongping_market_m": 1203
       }
     ]
   },
@@ -315,7 +327,9 @@
         "lng": 121.3124765,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2076,
+        "distance_to_zhongping_market_m": 2074
       }
     ]
   },
@@ -361,7 +375,9 @@
         "lng": 121.2781935,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1644,
+        "distance_to_zhongping_market_m": 1508
       }
     ]
   },
@@ -407,7 +423,9 @@
         "lng": 121.3077211,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1968,
+        "distance_to_zhongping_market_m": 1885
       }
     ]
   },
@@ -453,7 +471,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -499,7 +519,9 @@
         "lng": 121.290615,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 538,
+        "distance_to_zhongping_market_m": 312
       }
     ]
   },
@@ -544,7 +566,9 @@
         "lng": 121.204885,
         "precision": "工廠地址所在短路段代表點",
         "audit_note": "舊座標錯置於桃園北側；經濟部資料列工廠位於平鎮區工業七路6號。",
-        "coordinate_source": "經濟部園區事業名錄＋OpenStreetMap工業七路"
+        "coordinate_source": "經濟部園區事業名錄＋OpenStreetMap工業七路",
+        "distance_to_zhongping_section_m": 13576,
+        "distance_to_zhongping_market_m": 13348
       }
     ]
   },
@@ -591,7 +615,9 @@
         "lng": 121.29576,
         "precision": "門牌所在短路段代表點",
         "audit_note": "原系統誤選她轉述他人主張的青埔；原文中萬美玲明確表示自己贊成舊司法園區。",
-        "coordinate_source": "桃園市政府資料＋OpenStreetMap法治路"
+        "coordinate_source": "桃園市政府資料＋OpenStreetMap法治路",
+        "distance_to_zhongping_section_m": 333,
+        "distance_to_zhongping_market_m": 572
       }
     ]
   },
@@ -637,7 +663,9 @@
         "lng": 121.3049171,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1128,
+        "distance_to_zhongping_market_m": 1203
       }
     ]
   },
@@ -683,7 +711,9 @@
         "lng": 121.225,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 8262,
+        "distance_to_zhongping_market_m": 8066
       }
     ]
   },
@@ -729,7 +759,9 @@
         "lng": 121.2972214,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1069,
+        "distance_to_zhongping_market_m": 1312
       }
     ]
   },
@@ -775,7 +807,9 @@
         "lng": 121.23,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 10953,
+        "distance_to_zhongping_market_m": 11086
       }
     ]
   },
@@ -824,7 +858,9 @@
         "lng": 121.3002521,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4309,
+        "distance_to_zhongping_market_m": 4546
       }
     ]
   },
@@ -871,7 +907,9 @@
         "lng": 121.3129679,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1926,
+        "distance_to_zhongping_market_m": 2019
       }
     ]
   },
@@ -917,7 +955,9 @@
         "lng": 121.3003,
         "precision": "明確路口",
         "audit_note": "原文直接追問G10貨櫃市集營運；路口由OpenStreetMap道路交點核定。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2534,
+        "distance_to_zhongping_market_m": 2776
       }
     ]
   },
@@ -962,7 +1002,9 @@
         "lng": 121.2150734,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 8305,
+        "distance_to_zhongping_market_m": 8290
       }
     ]
   },
@@ -1009,7 +1051,9 @@
         "lng": 121.2935353,
         "precision": "具名短路段代表點",
         "audit_note": "原文把兒七定位在宏昌二街，並另談公二公園；採宏昌二街代表點。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 85,
+        "distance_to_zhongping_market_m": 158
       }
     ]
   },
@@ -1055,7 +1099,9 @@
         "lng": 121.3146535,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4046,
+        "distance_to_zhongping_market_m": 4285
       }
     ]
   },
@@ -1100,7 +1146,9 @@
         "lng": 121.2034033,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 10234,
+        "distance_to_zhongping_market_m": 10054
       }
     ]
   },
@@ -1146,7 +1194,9 @@
         "lng": 121.2583532,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4086,
+        "distance_to_zhongping_market_m": 3903
       }
     ]
   },
@@ -1192,7 +1242,9 @@
         "lng": 121.3129679,
         "precision": "具名車站代表點",
         "audit_note": "原系統誤選作為對照的新興藝文園區；原文要求改善的是火車站前老舊商圈。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1926,
+        "distance_to_zhongping_market_m": 2019
       }
     ]
   },
@@ -1238,7 +1290,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -1284,7 +1338,9 @@
         "lng": 121.3002521,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4309,
+        "distance_to_zhongping_market_m": 4546
       }
     ]
   },
@@ -1329,7 +1385,9 @@
         "lng": 121.284,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 6997,
+        "distance_to_zhongping_market_m": 6761
       }
     ]
   },
@@ -1376,7 +1434,9 @@
         "lng": 121.2947701,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 299,
+        "distance_to_zhongping_market_m": 189
       }
     ]
   },
@@ -1423,7 +1483,9 @@
         "lng": 121.3208761,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3460,
+        "distance_to_zhongping_market_m": 3672
       }
     ]
   },
@@ -1468,7 +1530,9 @@
         "lng": 121.2962311,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2680,
+        "distance_to_zhongping_market_m": 2914
       }
     ]
   },
@@ -1514,7 +1578,9 @@
         "lng": 121.302,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1830,
+        "distance_to_zhongping_market_m": 2072
       }
     ]
   },
@@ -1560,7 +1626,9 @@
         "lng": 121.29,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 653,
+        "distance_to_zhongping_market_m": 809
       }
     ]
   },
@@ -1605,7 +1673,9 @@
         "lng": 121.2954006,
         "precision": "官方地址路口",
         "audit_note": "舊座標誤落中壢忠孝公園；桃園區公所資料明載本公園位於中路區。",
-        "coordinate_source": "桃園區公所＋OpenStreetMap路口"
+        "coordinate_source": "桃園區公所＋OpenStreetMap路口",
+        "distance_to_zhongping_section_m": 524,
+        "distance_to_zhongping_market_m": 366
       }
     ]
   },
@@ -1651,7 +1721,9 @@
         "lng": 121.3001556,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3120,
+        "distance_to_zhongping_market_m": 3360
       }
     ]
   },
@@ -1698,7 +1770,9 @@
         "lng": 121.19,
         "precision": "公開門牌之近似點",
         "audit_note": "原系統誤選原文的假設例子「武陵高中」；廣告電話03-4891225對應龍潭梅龍路500號。",
-        "coordinate_source": "校方公開聯絡資料＋道路近似定位"
+        "coordinate_source": "校方公開聯絡資料＋道路近似定位",
+        "distance_to_zhongping_section_m": 16152,
+        "distance_to_zhongping_market_m": 15923
       }
     ]
   },
@@ -1744,7 +1818,9 @@
         "lng": 121.3205142,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2829,
+        "distance_to_zhongping_market_m": 2990
       }
     ]
   },
@@ -1788,7 +1864,9 @@
         "lng": 121.292088,
         "precision": "相鄰具名設施代表點",
         "audit_note": "原文要求在市三簡易公園設置中路國民運動中心。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 202,
+        "distance_to_zhongping_market_m": 162
       }
     ]
   },
@@ -1834,7 +1912,9 @@
         "lng": 121.1034,
         "precision": "公開門牌之道路近似點",
         "audit_note": "舊座標錯置；消防與監察資料列事故地址為新屋區中興北路101號。",
-        "coordinate_source": "消防／監察資料＋OpenStreetMap中興北路"
+        "coordinate_source": "消防／監察資料＋OpenStreetMap中興北路",
+        "distance_to_zhongping_section_m": 19273,
+        "distance_to_zhongping_market_m": 19166
       }
     ]
   },
@@ -1880,7 +1960,9 @@
         "lng": 121.303,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1781,
+        "distance_to_zhongping_market_m": 2021
       }
     ]
   },
@@ -1926,7 +2008,9 @@
         "lng": 121.1034,
         "precision": "公開門牌之道路近似點",
         "audit_note": "原文以新屋大火檢視新聞發布速度；改用公開事故地址近似點。",
-        "coordinate_source": "消防／監察資料＋OpenStreetMap中興北路"
+        "coordinate_source": "消防／監察資料＋OpenStreetMap中興北路",
+        "distance_to_zhongping_section_m": 19273,
+        "distance_to_zhongping_market_m": 19166
       }
     ]
   },
@@ -1972,7 +2056,9 @@
         "lng": 121.29,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 653,
+        "distance_to_zhongping_market_m": 809
       }
     ]
   },
@@ -2018,7 +2104,9 @@
         "lng": 121.204885,
         "precision": "工廠地址所在短路段代表點",
         "audit_note": "舊座標錯置於桃園北側；經濟部資料列工廠位於平鎮區工業七路6號。",
-        "coordinate_source": "經濟部園區事業名錄＋OpenStreetMap工業七路"
+        "coordinate_source": "經濟部園區事業名錄＋OpenStreetMap工業七路",
+        "distance_to_zhongping_section_m": 13576,
+        "distance_to_zhongping_market_m": 13348
       }
     ]
   },
@@ -2064,7 +2152,9 @@
         "lng": 121.2948622,
         "precision": "具名公園",
         "audit_note": "依OpenStreetMap具名公園重定位；舊座標偏離。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 432,
+        "distance_to_zhongping_market_m": 271
       }
     ]
   },
@@ -2110,7 +2200,9 @@
         "lng": 121.292088,
         "precision": "相鄰具名設施代表點",
         "audit_note": "原文明載市三公園在游泳池旁；舊座標偏東約1公里。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 202,
+        "distance_to_zhongping_market_m": 162
       }
     ]
   },
@@ -2156,7 +2248,9 @@
         "lng": 121.2947701,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 299,
+        "distance_to_zhongping_market_m": 189
       }
     ]
   },
@@ -2203,7 +2297,9 @@
         "lng": 121.3049171,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1128,
+        "distance_to_zhongping_market_m": 1203
       }
     ]
   },
@@ -2249,7 +2345,9 @@
         "lng": 121.303,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1781,
+        "distance_to_zhongping_market_m": 2021
       }
     ]
   },
@@ -2295,7 +2393,9 @@
         "lng": 121.3191754,
         "precision": "具名工業設施",
         "audit_note": "原系統以龜山大檜溪區域中心代替；改用原文核心設施中油桃園煉油廠。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 5605,
+        "distance_to_zhongping_market_m": 5846
       }
     ]
   },
@@ -2340,7 +2440,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -2386,7 +2488,9 @@
         "lng": 121.31,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2306,
+        "distance_to_zhongping_market_m": 2531
       }
     ]
   },
@@ -2432,7 +2536,9 @@
         "lng": 121.31,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2306,
+        "distance_to_zhongping_market_m": 2531
       }
     ]
   },
@@ -2477,7 +2583,9 @@
         "lng": 121.3146535,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4046,
+        "distance_to_zhongping_market_m": 4285
       }
     ]
   },
@@ -2521,7 +2629,9 @@
         "lng": 121.2972786,
         "precision": "具名宗教設施",
         "audit_note": "原文以中平福德宮管理委員會為具體案例。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 395,
+        "distance_to_zhongping_market_m": 433
       }
     ]
   },
@@ -2567,7 +2677,9 @@
         "lng": 121.2914417,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1294,
+        "distance_to_zhongping_market_m": 1505
       }
     ]
   },
@@ -2613,7 +2725,9 @@
         "lng": 121.2993455,
         "precision": "具名工業設施",
         "audit_note": "舊座標不在林口電廠；改用OpenStreetMap廠區中心。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 14424,
+        "distance_to_zhongping_market_m": 14654
       }
     ]
   },
@@ -2659,7 +2773,9 @@
         "lng": 121.0152102,
         "precision": "具名文化設施",
         "audit_note": "原文直接追問海螺文化館設計抄襲爭議與市府回應。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 28085,
+        "distance_to_zhongping_market_m": 27997
       }
     ]
   },
@@ -2705,7 +2821,9 @@
         "lng": 121.2681016,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2940,
+        "distance_to_zhongping_market_m": 2760
       }
     ]
   },
@@ -2750,7 +2868,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -2796,7 +2916,9 @@
         "lng": 121.303,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1781,
+        "distance_to_zhongping_market_m": 2021
       }
     ]
   },
@@ -2842,7 +2964,9 @@
         "lng": 121.39,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 13667,
+        "distance_to_zhongping_market_m": 13889
       }
     ]
   },
@@ -2888,7 +3012,9 @@
         "lng": 121.3001556,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3120,
+        "distance_to_zhongping_market_m": 3360
       }
     ]
   },
@@ -2934,7 +3060,9 @@
         "lng": 121.2727439,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2132,
+        "distance_to_zhongping_market_m": 2069
       }
     ]
   },
@@ -2980,7 +3108,9 @@
         "lng": 121.28,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1398,
+        "distance_to_zhongping_market_m": 1324
       }
     ]
   },
@@ -3026,7 +3156,9 @@
         "lng": 121.303,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1781,
+        "distance_to_zhongping_market_m": 2021
       }
     ]
   },
@@ -3072,7 +3204,9 @@
         "lng": 121.302,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1830,
+        "distance_to_zhongping_market_m": 2072
       }
     ]
   },
@@ -3118,7 +3252,9 @@
         "lng": 121.28,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1398,
+        "distance_to_zhongping_market_m": 1324
       }
     ]
   },
@@ -3164,7 +3300,9 @@
         "lng": 121.3090784,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 5992,
+        "distance_to_zhongping_market_m": 5797
       }
     ]
   },
@@ -3211,7 +3349,9 @@
         "lng": 121.292088,
         "precision": "相鄰具名設施代表點",
         "audit_note": "原文明載市三公園國民運動中心計畫；以相鄰桃園市立游泳池定位。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 202,
+        "distance_to_zhongping_market_m": 162
       }
     ]
   },
@@ -3256,7 +3396,9 @@
         "lng": 121.3163594,
         "precision": "具名公園",
         "audit_note": "議事錄OCR作「清晰公園」；依桃園親子館與青溪公園資料校正，舊座標亦錯誤。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2550,
+        "distance_to_zhongping_market_m": 2738
       }
     ]
   },
@@ -3302,7 +3444,9 @@
         "lng": 121.29,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 653,
+        "distance_to_zhongping_market_m": 809
       }
     ]
   },
@@ -3348,7 +3492,9 @@
         "lng": 121.290615,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 538,
+        "distance_to_zhongping_market_m": 312
       }
     ]
   },
@@ -3393,7 +3539,9 @@
         "lng": 121.29576,
         "precision": "門牌所在短路段代表點",
         "audit_note": "原系統誤選比較對象「埔子」；原文主題是法院、地檢署搬遷後的法治路1號舊址再利用。",
-        "coordinate_source": "桃園市政府資料＋OpenStreetMap法治路"
+        "coordinate_source": "桃園市政府資料＋OpenStreetMap法治路",
+        "distance_to_zhongping_section_m": 333,
+        "distance_to_zhongping_market_m": 572
       }
     ]
   },
@@ -3440,7 +3588,9 @@
         "lng": 121.2727439,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2132,
+        "distance_to_zhongping_market_m": 2069
       }
     ]
   },
@@ -3486,7 +3636,9 @@
         "lng": 121.3305937,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4728,
+        "distance_to_zhongping_market_m": 4940
       }
     ]
   },
@@ -3533,7 +3685,9 @@
         "lng": 121.2906632,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3066,
+        "distance_to_zhongping_market_m": 3283
       }
     ]
   },
@@ -3579,7 +3733,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -3625,7 +3781,9 @@
         "lng": 121.3208761,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3460,
+        "distance_to_zhongping_market_m": 3672
       }
     ]
   },
@@ -3670,7 +3828,9 @@
         "lng": 121.3305937,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4728,
+        "distance_to_zhongping_market_m": 4940
       }
     ]
   },
@@ -3716,7 +3876,9 @@
         "lng": 121.28,
         "precision": "具名埤塘代表點",
         "audit_note": "本則同時談多條人行道與2-5埤塘；採可明確定位的2-5埤塘。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1398,
+        "distance_to_zhongping_market_m": 1324
       }
     ]
   },
@@ -3762,7 +3924,9 @@
         "lng": 121.3068668,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1972,
+        "distance_to_zhongping_market_m": 1874
       }
     ]
   },
@@ -3807,7 +3971,9 @@
         "lng": 121.3068668,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1972,
+        "distance_to_zhongping_market_m": 1874
       }
     ]
   },
@@ -3851,7 +4017,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -3896,7 +4064,9 @@
         "lng": 121.302,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1830,
+        "distance_to_zhongping_market_m": 2072
       }
     ]
   },
@@ -3943,7 +4113,9 @@
         "lng": 121.3115203,
         "precision": "具名文化設施",
         "audit_note": "原文直接追問日式宿舍保存與園區活化進度。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1786,
+        "distance_to_zhongping_market_m": 1907
       }
     ]
   },
@@ -3989,7 +4161,9 @@
         "lng": 121.284,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 6997,
+        "distance_to_zhongping_market_m": 6761
       }
     ]
   },
@@ -4036,7 +4210,9 @@
         "lng": 121.2962311,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2680,
+        "distance_to_zhongping_market_m": 2914
       }
     ]
   },
@@ -4084,7 +4260,9 @@
         "lng": 121.2979487,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3042,
+        "distance_to_zhongping_market_m": 3279
       }
     ]
   },
@@ -4129,7 +4307,9 @@
         "lng": 121.28,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1398,
+        "distance_to_zhongping_market_m": 1324
       }
     ]
   },
@@ -4175,7 +4355,9 @@
         "lng": 121.2962311,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2680,
+        "distance_to_zhongping_market_m": 2914
       }
     ]
   },
@@ -4219,7 +4401,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -4265,7 +4449,9 @@
         "lng": 121.3063109,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3165,
+        "distance_to_zhongping_market_m": 3408
       }
     ]
   },
@@ -4311,7 +4497,9 @@
         "lng": 121.2781935,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1644,
+        "distance_to_zhongping_market_m": 1508
       }
     ]
   },
@@ -4357,7 +4545,9 @@
         "lng": 121.2940506,
         "precision": "里界代表點",
         "audit_note": "原文明載萬美玲自稱住在中平里，並追問里內21支故障監視器。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 86,
+        "distance_to_zhongping_market_m": 178
       }
     ]
   },
@@ -4403,7 +4593,9 @@
         "lng": 121.2962311,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2680,
+        "distance_to_zhongping_market_m": 2914
       }
     ]
   },
@@ -4449,7 +4641,9 @@
         "lng": 121.3101715,
         "precision": "具名校址；多地點代表點",
         "audit_note": "原文同時列桃園、建國、中埔、中山、南門等校；以兩條爭議路線共同起點桃園國小代表，不表示事件只涉及該校。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1652,
+        "distance_to_zhongping_market_m": 1777
       }
     ]
   },
@@ -4495,7 +4689,9 @@
         "lng": 121.2133828,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 16279,
+        "distance_to_zhongping_market_m": 16038
       }
     ]
   },
@@ -4541,7 +4737,9 @@
         "lng": 121.2133828,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 16279,
+        "distance_to_zhongping_market_m": 16038
       }
     ]
   },
@@ -4587,7 +4785,9 @@
         "lng": 121.28,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1398,
+        "distance_to_zhongping_market_m": 1324
       }
     ]
   },
@@ -4634,7 +4834,9 @@
         "lng": 121.29,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 653,
+        "distance_to_zhongping_market_m": 809
       }
     ]
   },
@@ -4679,7 +4881,9 @@
         "lng": 121.300899,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2215,
+        "distance_to_zhongping_market_m": 2457
       }
     ]
   },
@@ -4725,7 +4929,9 @@
         "lng": 121.3182863,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2683,
+        "distance_to_zhongping_market_m": 2859
       }
     ]
   },
@@ -4771,7 +4977,9 @@
         "lng": 121.298774,
         "precision": "具名場館",
         "audit_note": "原文討論藝文中心及相關場館提供地方藝術家展演。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -4818,7 +5026,9 @@
         "lng": 121.3050175,
         "precision": "具名設施",
         "audit_note": "原文同時談南平、三民運動中心，採先出現且可核址的南平運動中心代表。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3565,
+        "distance_to_zhongping_market_m": 3808
       }
     ]
   },
@@ -4863,7 +5073,9 @@
         "lng": 121.3045298,
         "precision": "具名停車場",
         "audit_note": "原文追問在西門地下停車場發現大量棄置燈籠的新聞處理。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1149,
+        "distance_to_zhongping_market_m": 1325
       }
     ]
   },
@@ -4909,7 +5121,9 @@
         "lng": 121.3069595,
         "precision": "具名市場",
         "audit_note": "原文要求改善桃園觀光夜市環境與安全。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1952,
+        "distance_to_zhongping_market_m": 2181
       }
     ]
   },
@@ -4956,7 +5170,9 @@
         "lng": 121.2034033,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 10234,
+        "distance_to_zhongping_market_m": 10054
       }
     ]
   },
@@ -5003,7 +5219,9 @@
         "lng": 121.2979487,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3042,
+        "distance_to_zhongping_market_m": 3279
       }
     ]
   },
@@ -5049,7 +5267,9 @@
         "lng": 121.31,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2306,
+        "distance_to_zhongping_market_m": 2531
       }
     ]
   },
@@ -5095,7 +5315,9 @@
         "lng": 121.3133,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1962,
+        "distance_to_zhongping_market_m": 2050
       }
     ]
   },
@@ -5141,7 +5363,9 @@
         "lng": 121.28,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1398,
+        "distance_to_zhongping_market_m": 1324
       }
     ]
   },
@@ -5186,7 +5410,9 @@
         "lng": 121.2942212,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 5454,
+        "distance_to_zhongping_market_m": 5682
       }
     ]
   },
@@ -5230,7 +5456,9 @@
         "lng": 121.2919786,
         "precision": "具名校址",
         "audit_note": "原文以文山國小無圍牆校園討論校安。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 800,
+        "distance_to_zhongping_market_m": 1009
       }
     ]
   },
@@ -5276,7 +5504,9 @@
         "lng": 121.3707965,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 11000,
+        "distance_to_zhongping_market_m": 11223
       }
     ]
   },
@@ -5320,7 +5550,9 @@
         "lng": 121.2681016,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2940,
+        "distance_to_zhongping_market_m": 2760
       }
     ]
   },
@@ -5366,7 +5598,9 @@
         "lng": 121.29,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 705,
+        "distance_to_zhongping_market_m": 471
       }
     ]
   },
@@ -5412,7 +5646,9 @@
         "lng": 121.29,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 653,
+        "distance_to_zhongping_market_m": 809
       }
     ]
   },
@@ -5458,7 +5694,9 @@
         "lng": 121.2928597,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3362,
+        "distance_to_zhongping_market_m": 3587
       }
     ]
   },
@@ -5504,7 +5742,9 @@
         "lng": 121.3063727,
         "precision": "具名校址",
         "audit_note": "原文直接比較外社國小自辦早餐與委外早餐。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 10346,
+        "distance_to_zhongping_market_m": 10582
       }
     ]
   },
@@ -5550,7 +5790,9 @@
         "lng": 121.3124765,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2076,
+        "distance_to_zhongping_market_m": 2074
       }
     ]
   },
@@ -5596,7 +5838,9 @@
         "lng": 121.2928597,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3362,
+        "distance_to_zhongping_market_m": 3587
       }
     ]
   },
@@ -5642,7 +5886,9 @@
         "lng": 121.3237474,
         "precision": "具名設施",
         "audit_note": "原系統誤選原文中的垃圾來源例子「殯儀館」；主題是會稽掩埋場廢棄物與封場。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 4468,
+        "distance_to_zhongping_market_m": 4696
       }
     ]
   },
@@ -5688,7 +5934,9 @@
         "lng": 121.290615,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 538,
+        "distance_to_zhongping_market_m": 312
       }
     ]
   },
@@ -5734,7 +5982,9 @@
         "lng": 121.23,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 10953,
+        "distance_to_zhongping_market_m": 11086
       }
     ]
   },
@@ -5779,7 +6029,9 @@
         "lng": 121.23,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 10953,
+        "distance_to_zhongping_market_m": 11086
       }
     ]
   },
@@ -5827,7 +6079,9 @@
         "lng": 121.290615,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 538,
+        "distance_to_zhongping_market_m": 312
       }
     ]
   },
@@ -5871,7 +6125,9 @@
         "lng": 121.2906385,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 818,
+        "distance_to_zhongping_market_m": 1006
       }
     ]
   },
@@ -5917,7 +6173,9 @@
         "lng": 121.290615,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 538,
+        "distance_to_zhongping_market_m": 312
       }
     ]
   },
@@ -5963,7 +6221,9 @@
         "lng": 121.29,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 653,
+        "distance_to_zhongping_market_m": 809
       }
     ]
   },
@@ -6009,7 +6269,9 @@
         "lng": 121.52,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 24528,
+        "distance_to_zhongping_market_m": 24695
       }
     ]
   },
@@ -6055,7 +6317,9 @@
         "lng": 121.30844,
         "precision": "明確路口",
         "audit_note": "原文以路口三戶民宅遭變電箱維修波及為例；路口由OpenStreetMap道路交點核定。",
-        "coordinate_source": "人工複核／OpenStreetMap"
+        "coordinate_source": "人工複核／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1747,
+        "distance_to_zhongping_market_m": 1950
       }
     ]
   },
@@ -6101,7 +6365,9 @@
         "lng": 121.3108836,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 1791,
+        "distance_to_zhongping_market_m": 1951
       }
     ]
   },
@@ -6147,7 +6413,9 @@
         "lng": 121.2906632,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3066,
+        "distance_to_zhongping_market_m": 3283
       }
     ]
   },
@@ -6194,7 +6462,9 @@
         "lng": 121.2034033,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 10234,
+        "distance_to_zhongping_market_m": 10054
       }
     ]
   },
@@ -6240,7 +6510,9 @@
         "lng": 121.305,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2267,
+        "distance_to_zhongping_market_m": 2508
       }
     ]
   },
@@ -6285,7 +6557,9 @@
         "lng": 121.2139173,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 8231,
+        "distance_to_zhongping_market_m": 8194
       }
     ]
   },
@@ -6331,7 +6605,9 @@
         "lng": 121.2973681,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2044,
+        "distance_to_zhongping_market_m": 2283
       }
     ]
   },
@@ -6377,7 +6653,9 @@
         "lng": 121.3124765,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2076,
+        "distance_to_zhongping_market_m": 2074
       }
     ]
   },
@@ -6423,7 +6701,9 @@
         "lng": 121.298774,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 3073,
+        "distance_to_zhongping_market_m": 3311
       }
     ]
   },
@@ -6469,7 +6749,9 @@
         "lng": 121.3205142,
         "precision": "舊資料具名點，原文span複核通過",
         "audit_note": "人工確認該地點確實是原文中的政策標的、事件地點或實質案例。",
-        "coordinate_source": "既有地名表／OpenStreetMap"
+        "coordinate_source": "既有地名表／OpenStreetMap",
+        "distance_to_zhongping_section_m": 2829,
+        "distance_to_zhongping_market_m": 2990
       }
     ]
   },
